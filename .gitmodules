@@ -1,0 +1,4 @@
+[submodule "WA-3722-module"]
+	path = WA-3722-module
+	url = ../WA-3722-module
+	branch = master
